@@ -1,19 +1,19 @@
-## Welcome to GitHub Pages
+## TOTOC
 
 You can use the [editor on GitHub](https://github.com/Dendronyma/ffmu/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### HENTOC
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Hlavička 1
+## Hlavička 2
+### Hlavička 3
 
 - Bulleted
 - List
@@ -21,7 +21,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**TlusŤoch** and _Křifák_ and `nekhoduje` text
 
 [Link](url) and ![Image](src)
 ```
